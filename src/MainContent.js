@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Octocat from './Octocat'
+import { TestScheduler } from 'rx'
 
 class MainContent extends Component {
   render() {
@@ -109,3 +110,5 @@ class MainContent extends Component {
 }
 
 export default MainContent
+
+// TestScheduler
