@@ -6,7 +6,7 @@ class Footer extends Component {
       <footer class="footer">
         <a href="#">RSS</a>
         <a href="#">FAQ</a>
-        <img src="./images/pida.png" alt="gitHubicon" />
+        <i class="fab fa-github" id="octocatLogo" />
         <p>© 2013 – 2018 GitHub, Inc. All rights reserved.</p>
       </footer>
     )
