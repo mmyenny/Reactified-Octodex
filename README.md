@@ -4,7 +4,7 @@
 
 ## Summary
 
-In this assignment we were instructed to recreate the Octodex using React. I found this to be a good practice to sharpen my skills and expand my knowledge with Flexbox.
+In this assignment we were instructed to recreate the Octodex using React. I found this to be a good practice to sharpen my skills and expand my knowledge in responsive design and Flexbox.
 
 ## Technologies Used
 
