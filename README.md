@@ -1,4 +1,6 @@
-![octodex](https://user-images.githubusercontent.com/44332994/50056309-56e9e700-0128-11e9-922e-478825405b04.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/44332994/50056309-56e9e700-0128-11e9-922e-478825405b04.gif"/>
+</p>
 
 ## Summary
 
